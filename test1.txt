@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0B5-8CA9
+
+ Directory of C:\Users\home\Desktop\vinaygit
+
+11/09/2018  04:54 PM    <DIR>          .
+11/09/2018  04:54 PM    <DIR>          ..
+11/09/2018  04:53 PM    <DIR>          .git
+11/09/2018  04:54 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  99,672,563,712 bytes free
